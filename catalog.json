@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "half-circle-wall-lamp",
+      "name": "Half Circle Wall Lamp",
+      "category": "Objects / Lighting",
+      "description": "A wall lamp model built around a half-circle silhouette. Inspect its Draco-compressed GLB in the browser and export an uncompressed GLB.",
+      "asset": "models/half_circle_wall_lamp.glb",
+      "fileSizeBytes": 53784,
+      "license": "CC0-1.0",
+      "tags": ["wall lamp", "lighting", "half circle", "object"]
+    },
+    {
+      "id": "dice",
+      "name": "Dice",
+      "category": "Uncategorized",
+      "description": "A 3D dice model. Add a more detailed description and category when those details are confirmed.",
+      "asset": "models/dice.glb",
+      "fileSizeBytes": 191920,
+      "license": "CC0-1.0",
+      "tags": ["dice", "uncategorized"]
+    }
+  ]
+}
