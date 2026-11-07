@@ -12,6 +12,16 @@
       "tags": ["wall lamp", "lighting", "half circle", "object"]
     },
     {
+      "id": "snow-sled",
+      "name": "Snow Sled",
+      "category": "Objects / Winter",
+      "description": "A snow sled model for winter scenes. Inspect its Draco-compressed GLB in the browser and export an uncompressed GLB.",
+      "asset": "models/snow-sled.glb",
+      "fileSizeBytes": 54440,
+      "license": "CC0-1.0",
+      "tags": ["snow sled", "winter", "sled", "object"]
+    },
+    {
       "id": "dice",
       "name": "Dice",
       "category": "Uncategorized",
