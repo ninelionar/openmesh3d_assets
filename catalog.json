@@ -40,6 +40,16 @@
       "fileSizeBytes": 191920,
       "license": "CC0-1.0",
       "tags": ["dice", "uncategorized"]
+    },
+    {
+      "id": "tray",
+      "name": "Tray",
+      "category": "Objects / Containers",
+      "description": "A shallow container for holding objects.",
+      "asset": "models/tray.glb",
+      "fileSizeBytes": 65064,
+      "license": "CC0-1.0",
+      "tags": ["tray", "container", "planter", "object"]
     }
   ]
 }
