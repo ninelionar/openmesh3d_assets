@@ -2,6 +2,16 @@
   "version": 1,
   "models": [
     {
+      "id": "coffee-mug",
+      "name": "Coffee Mug",
+      "category": "Objects / Kitchen",
+      "description": "A coffee mug model for kitchen and dining scenes.",
+      "asset": "models/coffee-mug.glb",
+      "fileSizeBytes": 53948,
+      "license": "CC0-1.0",
+      "tags": ["coffee mug", "kitchen", "drinkware", "object"]
+    },
+    {
       "id": "half-circle-wall-lamp",
       "name": "Half Circle Wall Lamp",
       "category": "Objects / Lighting",
