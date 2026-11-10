@@ -9,7 +9,8 @@
       "asset": "models/coffee-mug.glb",
       "fileSizeBytes": 53948,
       "license": "CC0-1.0",
-      "tags": ["coffee mug", "kitchen", "drinkware", "object"]
+      "tags": ["coffee mug", "kitchen", "drinkware", "object"],
+      "thumbnail": "thumbnails/coffee-mug.png"
     },
     {
       "id": "half-circle-wall-lamp",
@@ -19,7 +20,8 @@
       "asset": "models/half_circle_wall_lamp.glb",
       "fileSizeBytes": 53784,
       "license": "CC0-1.0",
-      "tags": ["wall lamp", "lighting", "half circle", "object"]
+      "tags": ["wall lamp", "lighting", "half circle", "object"],
+      "thumbnail": "thumbnails/half_circle_wall_lamp.png"
     },
     {
       "id": "snow-sled",
@@ -29,7 +31,8 @@
       "asset": "models/snow-sled.glb",
       "fileSizeBytes": 54440,
       "license": "CC0-1.0",
-      "tags": ["snow sled", "winter", "sled", "object"]
+      "tags": ["snow sled", "winter", "sled", "object"],
+      "thumbnail": "thumbnails/snow-sled.png"
     },
     {
       "id": "dice",
@@ -39,7 +42,8 @@
       "asset": "models/dice.glb",
       "fileSizeBytes": 191920,
       "license": "CC0-1.0",
-      "tags": ["dice", "uncategorized"]
+      "tags": ["dice", "uncategorized"],
+      "thumbnail": "thumbnails/dice.png"
     },
     {
       "id": "tray",
@@ -49,7 +53,18 @@
       "asset": "models/tray.glb",
       "fileSizeBytes": 65064,
       "license": "CC0-1.0",
-      "tags": ["tray", "container", "planter", "object"]
+      "tags": ["tray", "container", "planter", "object"],
+      "thumbnail": "thumbnails/tray.png"
+    },
+    {
+      "id": "aa-battery",
+      "name": "AA Battery",
+      "category": "Objects / Electronics",
+      "description": "An AA battery model for electronics and household scenes.",
+      "asset": "models/AA-battery.glb",
+      "fileSizeBytes": 2171432,
+      "license": "CC0-1.0",
+      "tags": ["aa battery", "battery", "electronics", "object"]
     }
   ]
 }
