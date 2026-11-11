@@ -57,6 +57,16 @@
       "thumbnail": "thumbnails/tray.png"
     },
     {
+      "id": "low-poly-barrel",
+      "name": "Low-Poly Barrel",
+      "category": "Objects / Containers",
+      "description": "A low-poly barrel model for storage and scene dressing.",
+      "asset": "models/low-poly-barrel.glb",
+      "fileSizeBytes": 50280,
+      "license": "CC0-1.0",
+      "tags": ["low poly", "barrel", "container", "object"]
+    },
+    {
       "id": "aa-battery",
       "name": "AA Battery",
       "category": "Objects / Electronics",
