@@ -67,6 +67,16 @@
       "tags": ["low poly", "barrel", "container", "object"]
     },
     {
+      "id": "traffic-cone",
+      "name": "Traffic Cone",
+      "category": "Objects / Safety",
+      "description": "A traffic cone model for road and construction scenes.",
+      "asset": "models/traffic-cone.glb",
+      "fileSizeBytes": 57588,
+      "license": "CC0-1.0",
+      "tags": ["traffic cone", "road safety", "construction", "object"]
+    },
+    {
       "id": "aa-battery",
       "name": "AA Battery",
       "category": "Objects / Electronics",
