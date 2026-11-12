@@ -74,7 +74,7 @@
       "name": "Traffic Sign",
       "category": "Objects / Street / Law / Safety",
       "description": "A traffic sign model for road information.",
-      "asset": "models/traffic-cone.glb",
+      "asset": "models/traffic-sign.glb",
       "license": "CC0-1.0",
       "tags": ["traffic sign", "road safety", "law", "object"]
     },
