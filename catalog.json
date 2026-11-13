@@ -131,6 +131,21 @@
       ]
     },
     {
+      "id": "bowling-ball",
+      "name": "Bowling Ball",
+      "category": "Objects / Sports",
+      "description": "A bowling ball model for bowling and recreation scenes.",
+      "asset": "models/bowling-ball.glb",
+      "license": "CC0-1.0",
+      "tags": [
+        "bowling ball",
+        "bowling",
+        "sports",
+        "recreation",
+        "object"
+      ]
+    },
+    {
       "id": "bowling-pin",
       "name": "Bowling Pin",
       "category": "Objects / Sports",
